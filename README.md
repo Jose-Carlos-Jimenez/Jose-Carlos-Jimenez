@@ -5,6 +5,8 @@
 --> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-Carlos-Jimenez&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Carlos-Jimenez)](https://github.com/anuraghazra/github-readme-stats)
+
 About me:
 
 - 🔭 I’m currently working on ... Typescript Interpreter
