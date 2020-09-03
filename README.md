@@ -21,4 +21,4 @@ About me:
 - 😄 Pronouns: ... undefined
 - ⚡ Fun fact: ...Valorant
 
-![alt text](https://images2.alphacoders.com/100/thumb-1920-1003880.png)
+![alt text](https://www.itl.cat/pngfile/big/118-1185288_fondos-hd-psicodlicos-fondos-de-escritorio-psicodelicos.jpg)
