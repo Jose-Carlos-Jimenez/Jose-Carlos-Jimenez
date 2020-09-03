@@ -3,8 +3,10 @@
 <!--
 **Jose-Carlos-Jimenez/Jose-Carlos-Jimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
+<div align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-Carlos-Jimenez&show_icons=true&theme=tokyonight?style=centerme)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Carlos-Jimenez)](https://github.com/anuraghazra/github-readme-stats?style=centerme)
+</div>
 <p align="center">  
   <img src="https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg" />
 </p>
