@@ -20,3 +20,5 @@ About me:
 - 📫 How to reach me: ... jose.522.vb@gmail.com
 - 😄 Pronouns: ... undefined
 - ⚡ Fun fact: ...Valorant
+
+![alt text](https://images2.alphacoders.com/100/thumb-1920-1003880.png)
