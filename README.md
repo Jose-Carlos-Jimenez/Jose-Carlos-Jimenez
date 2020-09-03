@@ -5,9 +5,6 @@
 --> 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-Carlos-Jimenez&show_icons=true&theme=tokyonight)              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Carlos-Jimenez)](https://github.com/anuraghazra/github-readme-stats)
-
-![alt text](https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg)
-
 <p align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg" />
 </p>
