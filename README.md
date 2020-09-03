@@ -7,7 +7,7 @@
 
 About me:
 
-- 🔭 I’m currently working on ... Type
+- 🔭 I’m currently working on ... Typescript Interpreter
 - 🌱 I’m currently learning ... AI
 - 👯 I’m looking to collaborate on ... AI project.
 - 🤔 I’m looking for help with ... No one at moment.
