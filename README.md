@@ -8,7 +8,9 @@
 
 ![alt text](https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg)
 
-
+<p align="center">
+  <img src="https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg" />
+</p>
 
 About me:
 
