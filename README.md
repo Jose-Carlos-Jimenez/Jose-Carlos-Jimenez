@@ -10,8 +10,8 @@ About me:
 - 🔭 I’m currently working on ... Typescript Interpreter
 - 🌱 I’m currently learning ... AI
 - 👯 I’m looking to collaborate on ... AI project.
-- 🤔 I’m looking for help with ... No one at moment.
+- 🤔 I’m looking for help with ... Nothing at the moment.
 - 💬 Ask me about ... Java, Javascript & C#
 - 📫 How to reach me: ... jose.522.vb@gmail.com
-- 😄 Pronouns: ... No one
+- 😄 Pronouns: ... undefined
 - ⚡ Fun fact: ...Valorant
